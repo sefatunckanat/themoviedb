@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "[sass]": {
+    "editor.foldingStrategy": "indentation"
+  },
+}
